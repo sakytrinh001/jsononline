@@ -1,0 +1,777 @@
+{
+  "Questions" : [ {
+    "Answer" : [ {
+      "AnswerId" : 10,
+      "TitleAnswer" : "Ông Già Noel"
+    }, {
+      "AnswerId" : 11,
+      "TitleAnswer" : "Ông thổ địa"
+    }, {
+      "AnswerId" : 12,
+      "TitleAnswer" : "Bảo vệ"
+    }, {
+      "AnswerId" : 13,
+      "TitleAnswer" : "Ông bụt"
+    } ],
+    "DetailQuestion" : "Kkk...Vì lấy đâu ra 2 ngày giáng sinh trong một năm.",
+    "QuestionId" : 1,
+    "ResultQuestion" : 10,
+    "TitleQuestion" : "Ai chỉ làm việc một ngày trong năm nhưng không bao giờ bị sa thải?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 21,
+      "TitleAnswer" : "Tuổi của bạn"
+    }, {
+      "AnswerId" : 20,
+      "TitleAnswer" : "Tên của bạn"
+    }, {
+      "AnswerId" : 22,
+      "TitleAnswer" : "Người yêu của bạn"
+    }, {
+      "AnswerId" : 23,
+      "TitleAnswer" : "Tiền của bạn"
+    } ],
+    "DetailQuestion" : "Exactly...!",
+    "QuestionId" : 2,
+    "ResultQuestion" : 20,
+    "TitleQuestion" : "Cái gì chỉ thuộc về bạn nhưng lại được người khác sử dụng nhiều hơn bạn."
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 30,
+      "TitleAnswer" : "Dưới nước"
+    }, {
+      "AnswerId" : 31,
+      "TitleAnswer" : "Cung trăng"
+    }, {
+      "AnswerId" : 32,
+      "TitleAnswer" : "Khi thế giới thay đổi"
+    }, {
+      "AnswerId" : 33,
+      "TitleAnswer" : "Khi người con trai thích mang bầu"
+    } ],
+    "DetailQuestion" : "Chúc mừng bạn đã không hiểu lầm...clap...clap",
+    "QuestionId" : 3,
+    "ResultQuestion" : 30,
+    "TitleQuestion" : "Nơi nào con trai có thể sinh con?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 40,
+      "TitleAnswer" : "Đắt sô"
+    }, {
+      "AnswerId" : 41,
+      "TitleAnswer" : "Đắt đỏ"
+    }, {
+      "AnswerId" : 42,
+      "TitleAnswer" : "Đắc đạo"
+    }, {
+      "AnswerId" : 43,
+      "TitleAnswer" : "Đắc nhân tâm"
+    } ],
+    "DetailQuestion" : "Đắt sô thì bạn sẽ có nhiều tiền, càng thích đúng không? hí hí.",
+    "QuestionId" : 4,
+    "ResultQuestion" : 40,
+    "TitleQuestion" : "Cái gì càng đắt càng thích?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 70,
+      "TitleAnswer" : "15 con"
+    }, {
+      "AnswerId" : 71,
+      "TitleAnswer" : "1 con"
+    }, {
+      "AnswerId" : 72,
+      "TitleAnswer" : "12 con"
+    }, {
+      "AnswerId" : 73,
+      "TitleAnswer" : "1 đống con"
+    } ],
+    "DetailQuestion" : "Rằm là 15 (ngày rằm = ngày 15), vậy chết 15 con.",
+    "QuestionId" : 7,
+    "ResultQuestion" : 70,
+    "TitleQuestion" : "Có 1 đàn chim đậu trên cành, người thợ săn bắn cái rằm. Hỏi chết mấy con?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 80,
+      "TitleAnswer" : "Ở Mỹ"
+    }, {
+      "AnswerId" : 81,
+      "TitleAnswer" : "Ở giữa"
+    }, {
+      "AnswerId" : 82,
+      "TitleAnswer" : "Phía trước"
+    }, {
+      "AnswerId" : 83,
+      "TitleAnswer" : "Ở Việt Nam"
+    } ],
+    "DetailQuestion" : "Ở Mỹ mới có nhà Trắng thôi nhé!",
+    "QuestionId" : 8,
+    "ResultQuestion" : 80,
+    "TitleQuestion" : "Bên trái đường có một căn nhà xanh, bên phải đường có một căn nhà đỏ. Vậy, nhà Trắng ở đâu?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 90,
+      "TitleAnswer" : "Quả bóng"
+    }, {
+      "AnswerId" : 91,
+      "TitleAnswer" : "Khung thành"
+    }, {
+      "AnswerId" : 92,
+      "TitleAnswer" : "Thủ môn đối phương"
+    }, {
+      "AnswerId" : 93,
+      "TitleAnswer" : "Trọng tài"
+    } ],
+    "DetailQuestion" : "Cầu thủ đích thực là đây chứ đâu. :))",
+    "QuestionId" : 9,
+    "ResultQuestion" : 90,
+    "TitleQuestion" : "Khi Công Phượng thực hiện quả đá phạt đền, anh ta sẽ sút vào đâu?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 110,
+      "TitleAnswer" : "Sai"
+    }, {
+      "AnswerId" : 111,
+      "TitleAnswer" : "Đúng"
+    }, {
+      "AnswerId" : 112,
+      "TitleAnswer" : "Tuỳ người phát âm"
+    }, {
+      "AnswerId" : 113,
+      "TitleAnswer" : "Tuỳ hứng"
+    } ],
+    "DetailQuestion" : "Chắc hẳn bạn đã đọc nhẩm trước khi chọn đáp án đúng không?",
+    "QuestionId" : 11,
+    "ResultQuestion" : 110,
+    "TitleQuestion" : "Từ 'SAI' phát âm như thế nào là đúng?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 120,
+      "TitleAnswer" : "Tay phải"
+    }, {
+      "AnswerId" : 121,
+      "TitleAnswer" : "Tay trái"
+    }, {
+      "AnswerId" : 122,
+      "TitleAnswer" : "Chân trái"
+    }, {
+      "AnswerId" : 123,
+      "TitleAnswer" : "Chân phải"
+    } ],
+    "DetailQuestion" : "Good...!",
+    "QuestionId" : 12,
+    "ResultQuestion" : 120,
+    "TitleQuestion" : "Cái gì tay trái cầm được còn tay phải cầm không được?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 130,
+      "TitleAnswer" : "Môn đua xe đạp"
+    }, {
+      "AnswerId" : 131,
+      "TitleAnswer" : "Môn cờ vua"
+    }, {
+      "AnswerId" : 132,
+      "TitleAnswer" : "Môn bơi"
+    }, {
+      "AnswerId" : 133,
+      "TitleAnswer" : "Môn bóng đá"
+    } ],
+    "DetailQuestion" : "Đạp xe mà thắng thì sao đi được, phải không? :D",
+    "QuestionId" : 13,
+    "ResultQuestion" : 130,
+    "TitleQuestion" : "Môn gì càng thắng càng thua?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 140,
+      "TitleAnswer" : "Than"
+    }, {
+      "AnswerId" : 141,
+      "TitleAnswer" : "Con cua"
+    }, {
+      "AnswerId" : 142,
+      "TitleAnswer" : "Trò chơi đỏ đen"
+    }, {
+      "AnswerId" : 143,
+      "TitleAnswer" : "Con gà"
+    } ],
+    "DetailQuestion" : "Chỉ có Than thôi. kkk",
+    "QuestionId" : 14,
+    "ResultQuestion" : 140,
+    "TitleQuestion" : "Cái gì đen khi bạn mua nó, đỏ khi dùng nó và xám xịt khi vứt nó đi?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 170,
+      "TitleAnswer" : "Cây nến"
+    }, {
+      "AnswerId" : 171,
+      "TitleAnswer" : "Cây tăm"
+    }, {
+      "AnswerId" : 172,
+      "TitleAnswer" : "Cây xăng"
+    }, {
+      "AnswerId" : 173,
+      "TitleAnswer" : "Cây vàng"
+    } ],
+    "DetailQuestion" : "Càng để lâu cây nến sẽ tự cháy hết => càng ngắn thôi. hè hè.",
+    "QuestionId" : 17,
+    "ResultQuestion" : 170,
+    "TitleQuestion" : "Cây gì càng để lâu thì càng thấp?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 180,
+      "TitleAnswer" : "Cái bóng của mình"
+    }, {
+      "AnswerId" : 181,
+      "TitleAnswer" : "Con đường"
+    }, {
+      "AnswerId" : 182,
+      "TitleAnswer" : "Cây thước"
+    }, {
+      "AnswerId" : 183,
+      "TitleAnswer" : "Cầu thang"
+    } ],
+    "DetailQuestion" : "Cái bóng của mình làm sao bước qua được.",
+    "QuestionId" : 18,
+    "ResultQuestion" : 180,
+    "TitleQuestion" : "Vừa bằng một thước. Mà bước không qua?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 190,
+      "TitleAnswer" : "Con đường"
+    }, {
+      "AnswerId" : 191,
+      "TitleAnswer" : "Cầu thang"
+    }, {
+      "AnswerId" : 192,
+      "TitleAnswer" : "Tài chính"
+    }, {
+      "AnswerId" : 193,
+      "TitleAnswer" : "Đường đời"
+    } ],
+    "DetailQuestion" : "Con đường có đoạn lên dốc xuống dốc đó.",
+    "QuestionId" : 19,
+    "ResultQuestion" : 190,
+    "TitleQuestion" : "Đố mọi người có 1 cái mà lúc lên , lúc xuống nhưng nó không bao giờ chuyển động hay nhúc nhích đi đâu được?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 200,
+      "TitleAnswer" : "Cửa sổ"
+    }, {
+      "AnswerId" : 201,
+      "TitleAnswer" : "Cái gương"
+    }, {
+      "AnswerId" : 202,
+      "TitleAnswer" : "Bức tường bị bể"
+    }, {
+      "AnswerId" : 203,
+      "TitleAnswer" : "Cặp mắt thần tiên"
+    } ],
+    "DetailQuestion" : "Chỉ có nhìn qua cửa sổ thôi.",
+    "QuestionId" : 20,
+    "ResultQuestion" : 200,
+    "TitleQuestion" : "Đố mọi người vật gì mà có thể giúp chúng ta nhìn thẳng qua tường dễ dàng?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 210,
+      "TitleAnswer" : "12 tháng"
+    }, {
+      "AnswerId" : 211,
+      "TitleAnswer" : "2 tháng"
+    }, {
+      "AnswerId" : 212,
+      "TitleAnswer" : "4 tháng"
+    }, {
+      "AnswerId" : 213,
+      "TitleAnswer" : "Không có tháng nào"
+    } ],
+    "DetailQuestion" : "Tháng nào chả có 28 ngày.",
+    "QuestionId" : 21,
+    "ResultQuestion" : 210,
+    "TitleQuestion" : "Mỗi năm có 7 tháng 31 ngày. Đố bạn có bao nhiêu tháng có 28 ngày?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 220,
+      "TitleAnswer" : "Tên Thành"
+    }, {
+      "AnswerId" : 221,
+      "TitleAnswer" : "Tên Đông"
+    }, {
+      "AnswerId" : 222,
+      "TitleAnswer" : "Không cần biết"
+    }, {
+      "AnswerId" : 223,
+      "TitleAnswer" : "Kệ gia đình Nam"
+    } ],
+    "DetailQuestion" : "Nhà Nam mà, bố mẹ Nam muốn đặt tên em út gì chả được. hí hí.",
+    "QuestionId" : 22,
+    "ResultQuestion" : 220,
+    "TitleQuestion" : "Nhà Nam có 4 anh chị em, 3 người lớn tên là Xuân, Hạ, Thu. Đố bạn người em út tên gì?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 230,
+      "TitleAnswer" : "Cho tao hôn người yêu mày nhé."
+    }, {
+      "AnswerId" : 231,
+      "TitleAnswer" : "Mày cho tao mượn tiền nhé."
+    }, {
+      "AnswerId" : 232,
+      "TitleAnswer" : "Mày đá banh với tao nhé."
+    }, {
+      "AnswerId" : 233,
+      "TitleAnswer" : "Tao không thích mày."
+    } ],
+    "DetailQuestion" : "Bạn nào dám cho bạn của bạn hôn người yêu của bạn.",
+    "QuestionId" : 23,
+    "ResultQuestion" : 230,
+    "TitleQuestion" : "Câu hỏi nào mà không ai có thể trả lời “Vâng”?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 240,
+      "TitleAnswer" : "1 chữ C"
+    }, {
+      "AnswerId" : 241,
+      "TitleAnswer" : "5 chữ C"
+    }, {
+      "AnswerId" : 242,
+      "TitleAnswer" : "4 chữ C"
+    }, {
+      "AnswerId" : 243,
+      "TitleAnswer" : "2 chữ C"
+    } ],
+    "DetailQuestion" : "Tớ hỏi chữ C mà, chứ phải chữ c đâu.",
+    "QuestionId" : 24,
+    "ResultQuestion" : 240,
+    "TitleQuestion" : "Có bao nhiêu chữ C trong câu sau đây: 'Cơm, canh, cháo gì tớ cũng thích ăn!'"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 250,
+      "TitleAnswer" : "Cây ATM"
+    }, {
+      "AnswerId" : 251,
+      "TitleAnswer" : "Cây Thông"
+    }, {
+      "AnswerId" : 252,
+      "TitleAnswer" : "Cây Chổi"
+    }, {
+      "AnswerId" : 253,
+      "TitleAnswer" : "Cây Đào"
+    } ],
+    "DetailQuestion" : "Chuẩn, tiền đâu ra mà mua nổi?",
+    "QuestionId" : 25,
+    "ResultQuestion" : 250,
+    "TitleQuestion" : "Cây gì chẳng dám mua bán, ngày nào cũng có nhiều người đến tìm?'"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 250,
+      "TitleAnswer" : "Phở ngó"
+    }, {
+      "AnswerId" : 251,
+      "TitleAnswer" : "Phở ít nước béo"
+    }, {
+      "AnswerId" : 252,
+      "TitleAnswer" : "Phở khô"
+    }, {
+      "AnswerId" : 253,
+      "TitleAnswer" : "Phở không thịt"
+    } ],
+    "DetailQuestion" : "Ngó, chứ có ăn đâu mà sợ mập.",
+    "QuestionId" : 25,
+    "ResultQuestion" : 250,
+    "TitleQuestion" : "Phở gì bạn ăn không sợ mập?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 260,
+      "TitleAnswer" : "Cua xanh"
+    }, {
+      "AnswerId" : 261,
+      "TitleAnswer" : "Cua đỏ"
+    }, {
+      "AnswerId" : 262,
+      "TitleAnswer" : "Cua nâu"
+    }, {
+      "AnswerId" : 263,
+      "TitleAnswer" : "Bằng nhau"
+    } ],
+    "DetailQuestion" : "Tất nhiên là Cua xanh rồi, Cua đỏ đã chín rồi mà, sao đua được.",
+    "QuestionId" : 26,
+    "ResultQuestion" : 260,
+    "TitleQuestion" : "Con cua đỏ dài 10 cm chạy đua với con cua xanh dài 15cm. Con nào về đích trước?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 270,
+      "TitleAnswer" : "Cô bé không đội nón"
+    }, {
+      "AnswerId" : 271,
+      "TitleAnswer" : "Cô bé đội nón nàu đỏ"
+    }, {
+      "AnswerId" : 272,
+      "TitleAnswer" : "Cô bé đội nón màu xanh"
+    }, {
+      "AnswerId" : 273,
+      "TitleAnswer" : "Cô bé đội nón màu hồng"
+    } ],
+    "DetailQuestion" : "Bạn đã đọc truyện Cô bé quàng khen đỏ?",
+    "QuestionId" : 27,
+    "ResultQuestion" : 270,
+    "TitleQuestion" : "Cô bé quàng khăn đỏ đội nón màu gì?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 270,
+      "TitleAnswer" : "Bố"
+    }, {
+      "AnswerId" : 271,
+      "TitleAnswer" : "Bạn"
+    }, {
+      "AnswerId" : 272,
+      "TitleAnswer" : "Ông nội"
+    }, {
+      "AnswerId" : 273,
+      "TitleAnswer" : "Cậu"
+    } ],
+    "DetailQuestion" : "Qua câu kế tiếp thôi nào.",
+    "QuestionId" : 27,
+    "ResultQuestion" : 270,
+    "TitleQuestion" : "Chồng của mẹ mình là ai?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 280,
+      "TitleAnswer" : "Ngày mai"
+    }, {
+      "AnswerId" : 281,
+      "TitleAnswer" : "Hôm qua"
+    }, {
+      "AnswerId" : 282,
+      "TitleAnswer" : "Ngày nay"
+    }, {
+      "AnswerId" : 283,
+      "TitleAnswer" : "Hôm kia"
+    } ],
+    "DetailQuestion" : "Đúng rồi...!",
+    "QuestionId" : 28,
+    "ResultQuestion" : 280,
+    "TitleQuestion" : "Cái gì luôn 'sẽ đến' mà không bao giờ 'đã đến'"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 290,
+      "TitleAnswer" : "Thiếu cặp chân mày (lông mày)"
+    }, {
+      "AnswerId" : 291,
+      "TitleAnswer" : "Thiếu đôi kính"
+    }, {
+      "AnswerId" : 292,
+      "TitleAnswer" : "Thiếu cái nón"
+    }, {
+      "AnswerId" : 293,
+      "TitleAnswer" : "Thiếu chữ ký tác giả"
+    } ],
+    "DetailQuestion" : "Bạn đã tra Google?",
+    "QuestionId" : 29,
+    "ResultQuestion" : 290,
+    "TitleQuestion" : "Trong bức tranh Monalisa, trên gương mặt của người đẹp này thiếu cái gì?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 300,
+      "TitleAnswer" : "Được chứ"
+    }, {
+      "AnswerId" : 301,
+      "TitleAnswer" : "Làm sao mà được"
+    }, {
+      "AnswerId" : 302,
+      "TitleAnswer" : "Qua câu này"
+    }, {
+      "AnswerId" : 303,
+      "TitleAnswer" : "Chưa thử"
+    } ],
+    "DetailQuestion" : "Tất nhiên là được rồi, bạn thử xem.",
+    "QuestionId" : 30,
+    "ResultQuestion" : 300,
+    "TitleQuestion" : "Bạn tự chụp selfie bằng camera sau được không?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 310,
+      "TitleAnswer" : "Một"
+    }, {
+      "AnswerId" : 311,
+      "TitleAnswer" : "Hai"
+    }, {
+      "AnswerId" : 312,
+      "TitleAnswer" : "Ba"
+    }, {
+      "AnswerId" : 313,
+      "TitleAnswer" : "Bốn"
+    } ],
+    "DetailQuestion" : "Một đôi thôi nhé!(2 chiếc).",
+    "QuestionId" : 31,
+    "ResultQuestion" : 310,
+    "TitleQuestion" : "Một võ sĩ quyền anh khi thi đấu phải đeo mấy đôi găng tay?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 320,
+      "TitleAnswer" : "Bên tay phải"
+    }, {
+      "AnswerId" : 321,
+      "TitleAnswer" : "Bên tay trái"
+    }, {
+      "AnswerId" : 322,
+      "TitleAnswer" : "Không bên nào hết"
+    }, {
+      "AnswerId" : 323,
+      "TitleAnswer" : "Đằng sau"
+    } ],
+    "DetailQuestion" : "Bạn chưa được nhận huy chương lần nào à?",
+    "QuestionId" : 32,
+    "ResultQuestion" : 320,
+    "TitleQuestion" : "Nếu bạn lên bục nhận Huy chương Vàng, người đứng ở vị trí thứ hai sẽ đứng ở bên tay trái hay bên tay phải của bạn?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 330,
+      "TitleAnswer" : "Trái bắp(Ngô)"
+    }, {
+      "AnswerId" : 331,
+      "TitleAnswer" : "Củ khoai"
+    }, {
+      "AnswerId" : 332,
+      "TitleAnswer" : "Đậu bắp"
+    }, {
+      "AnswerId" : 333,
+      "TitleAnswer" : "Cà tím"
+    } ],
+    "DetailQuestion" : "Bạn có hay ăn bắp nướng chứ?",
+    "QuestionId" : 33,
+    "ResultQuestion" : 330,
+    "TitleQuestion" : "Bỏ ngoài nướng trong, ăn ngoài bỏ trong là cái gì?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 340,
+      "TitleAnswer" : "Trái bắp(Ngô)"
+    }, {
+      "AnswerId" : 341,
+      "TitleAnswer" : "Củ khoai"
+    }, {
+      "AnswerId" : 342,
+      "TitleAnswer" : "Đậu bắp"
+    }, {
+      "AnswerId" : 343,
+      "TitleAnswer" : "Cà tím"
+    } ],
+    "DetailQuestion" : "Bạn có hay ăn bắp nướng chứ?",
+    "QuestionId" : 34,
+    "ResultQuestion" : 340,
+    "TitleQuestion" : "Bỏ ngoài nướng trong, ăn ngoài bỏ trong là cái gì?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 350,
+      "TitleAnswer" : "Không có chiếc nào"
+    }, {
+      "AnswerId" : 351,
+      "TitleAnswer" : "10 chiếc"
+    }, {
+      "AnswerId" : 352,
+      "TitleAnswer" : "12 chiếc"
+    }, {
+      "AnswerId" : 353,
+      "TitleAnswer" : "15 chiếc"
+    } ],
+    "DetailQuestion" : "Vì chỉ biết móc khóa, không đề cập đến số lượng chìa khóa",
+    "QuestionId" : 35,
+    "ResultQuestion" : 350,
+    "TitleQuestion" : "Một tá móc khóa gồm bao nhiêu chiếc chìa khóa?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 360,
+      "TitleAnswer" : "Ông Thọ"
+    }, {
+      "AnswerId" : 361,
+      "TitleAnswer" : "Ông Phước"
+    }, {
+      "AnswerId" : 362,
+      "TitleAnswer" : "Ông Lộc"
+    }, {
+      "AnswerId" : 363,
+      "TitleAnswer" : "Không ai cầm"
+    } ],
+    "DetailQuestion" : "Ông Thọ nhé.",
+    "QuestionId" : 36,
+    "ResultQuestion" : 360,
+    "TitleQuestion" : "Trong ba vị Phước (Phúc) - Lộc - Thọ, ai là người cầm trái đào tiên?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 370,
+      "TitleAnswer" : "Nhóm máu nào nó cũng hút"
+    }, {
+      "AnswerId" : 371,
+      "TitleAnswer" : "Nhóm máu O"
+    }, {
+      "AnswerId" : 372,
+      "TitleAnswer" : "Nhóm máu AB"
+    }, {
+      "AnswerId" : 373,
+      "TitleAnswer" : "Nhóm máu A"
+    } ],
+    "DetailQuestion" : "Nhóm máu nào nó hút cũng được nhé!",
+    "QuestionId" : 37,
+    "ResultQuestion" : 370,
+    "TitleQuestion" : "Con đỉa hút nhóm máu nào?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 380,
+      "TitleAnswer" : "Con bọ cạp"
+    }, {
+      "AnswerId" : 381,
+      "TitleAnswer" : "Con Hổ Cáp"
+    }, {
+      "AnswerId" : 382,
+      "TitleAnswer" : "Con mèo"
+    }, {
+      "AnswerId" : 383,
+      "TitleAnswer" : "Con Hổ"
+    } ],
+    "DetailQuestion" : "Bạn mới tìm trên Google đúng không?",
+    "QuestionId" : 38,
+    "ResultQuestion" : 380,
+    "TitleQuestion" : "Biểu tượng của cung Bọ Cạp là con Bọ Cạp, vậy biểu tượng của cung Hổ Cáp là con gì?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 390,
+      "TitleAnswer" : "Con sông"
+    }, {
+      "AnswerId" : 391,
+      "TitleAnswer" : "Con Thuyền"
+    }, {
+      "AnswerId" : 392,
+      "TitleAnswer" : "Con Ngựa"
+    }, {
+      "AnswerId" : 393,
+      "TitleAnswer" : "Con Trâu"
+    } ],
+    "DetailQuestion" : "Bạn thử để tấm ván trên sông và hòn sỏi trên sông sẽ thấy hiện tượng như trên xảy ra.",
+    "QuestionId" : 39,
+    "ResultQuestion" : 390,
+    "TitleQuestion" : "Con gì có thể chở được một tấm gỗ lớn, nhưng không thể chở được một hòn sỏi?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 400,
+      "TitleAnswer" : "Kem ốc quế"
+    }, {
+      "AnswerId" : 401,
+      "TitleAnswer" : "Kem ly"
+    }, {
+      "AnswerId" : 402,
+      "TitleAnswer" : "Kem cây"
+    }, {
+      "AnswerId" : 403,
+      "TitleAnswer" : "Kem kí"
+    } ],
+    "DetailQuestion" : "Bạn chắc là người rất thích ăn kem.",
+    "QuestionId" : 40,
+    "ResultQuestion" : 400,
+    "TitleQuestion" : "Kem ly, kem cây, kem ốc quế, kem kí, kem nào ăn xong không cần vứt rác?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 410,
+      "TitleAnswer" : "Tên Khoai"
+    }, {
+      "AnswerId" : 411,
+      "TitleAnswer" : "Tên Lan"
+    }, {
+      "AnswerId" : 412,
+      "TitleAnswer" : "Tên Tèo"
+    }, {
+      "AnswerId" : 413,
+      "TitleAnswer" : "Tên Lựu"
+    } ],
+    "DetailQuestion" : "Bạn đã tra Google?",
+    "QuestionId" : 41,
+    "ResultQuestion" : 410,
+    "TitleQuestion" : "Anh nông dân trong sự tích 'Cây tre trăm đốt' tên là gì?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 420,
+      "TitleAnswer" : "Tên Khoai"
+    }, {
+      "AnswerId" : 421,
+      "TitleAnswer" : "Tên Lan"
+    }, {
+      "AnswerId" : 422,
+      "TitleAnswer" : "Tên Tèo"
+    }, {
+      "AnswerId" : 423,
+      "TitleAnswer" : "Tên Lựu"
+    } ],
+    "DetailQuestion" : "Bạn đã tra Google?",
+    "QuestionId" : 42,
+    "ResultQuestion" : 420,
+    "TitleQuestion" : "Anh nông dân trong sự tích 'Cây tre trăm đốt' tên là gì?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 430,
+      "TitleAnswer" : "Không có lần nào"
+    }, {
+      "AnswerId" : 431,
+      "TitleAnswer" : "5 lần"
+    }, {
+      "AnswerId" : 432,
+      "TitleAnswer" : "6 lần"
+    }, {
+      "AnswerId" : 433,
+      "TitleAnswer" : "8 lần"
+    } ],
+    "DetailQuestion" : "Vì hô 'khắc nhập' các đốt tre mới dính lại với nhau",
+    "QuestionId" : 43,
+    "ResultQuestion" : 430,
+    "TitleQuestion" : "Câu thần chú 'Khắc xuất' phải được hô mấy lần các đốt tre mới dính lại với nhau?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 440,
+      "TitleAnswer" : "5 ông sao sáng"
+    }, {
+      "AnswerId" : 441,
+      "TitleAnswer" : "2 ông sao sáng"
+    }, {
+      "AnswerId" : 442,
+      "TitleAnswer" : "3 ông sao sáng"
+    }, {
+      "AnswerId" : 443,
+      "TitleAnswer" : "4 ông sao sáng"
+    } ],
+    "DetailQuestion" : "Bạn vẫn còn nhớ bài hát này?",
+    "QuestionId" : 44,
+    "ResultQuestion" : 440,
+    "TitleQuestion" : "Trong bài hát “Đếm sao”, có bao nhiêu ông sao sáng?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 450,
+      "TitleAnswer" : "40 nghìn"
+    }, {
+      "AnswerId" : 451,
+      "TitleAnswer" : "50 nghìn"
+    }, {
+      "AnswerId" : 452,
+      "TitleAnswer" : "60 nghìn"
+    }, {
+      "AnswerId" : 453,
+      "TitleAnswer" : "80 nghìn"
+    } ],
+    "DetailQuestion" : "1 người lùn + Ba của người cao",
+    "QuestionId" : 45,
+    "ResultQuestion" : 450,
+    "TitleQuestion" : "Có một người lùn và ba người cao đi ăn phở. Mỗi người ăn 1 tô phở giá 20 nghìn. Hỏi họ phải trả bao nhiêu tiền cho bữa ăn đó?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 460,
+      "TitleAnswer" : "Lần thứ 3"
+    }, {
+      "AnswerId" : 461,
+      "TitleAnswer" : "Lần thứ 2"
+    }, {
+      "AnswerId" : 462,
+      "TitleAnswer" : "Lần thứ 1"
+    }, {
+      "AnswerId" : 463,
+      "TitleAnswer" : "Lần thứ 4"
+    } ],
+    "DetailQuestion" : "Bạn đã nhờ sự trợ giúp?",
+    "QuestionId" : 46,
+    "ResultQuestion" : 460,
+    "TitleQuestion" : "Quả thị là lần hóa kiếp thứ mấy của cô Tấm?"
+  } ]
+}
