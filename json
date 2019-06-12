@@ -773,5 +773,23 @@
     "QuestionId" : 46,
     "ResultQuestion" : 460,
     "TitleQuestion" : "Quả thị là lần hóa kiếp thứ mấy của cô Tấm?"
+  }, {
+    "Answer" : [ {
+      "AnswerId" : 460,
+      "TitleAnswer" : "Lần thứ 3"
+    }, {
+      "AnswerId" : 461,
+      "TitleAnswer" : "Lần thứ 2"
+    }, {
+      "AnswerId" : 462,
+      "TitleAnswer" : "Lần thứ 1"
+    }, {
+      "AnswerId" : 463,
+      "TitleAnswer" : "Lần thứ 4"
+    } ],
+    "DetailQuestion" : "Bạn đã nhờ sự trợ giúp?",
+    "QuestionId" : 46,
+    "ResultQuestion" : 460,
+    "TitleQuestion" : "Quả thị là lần hóa kiếp thứ mấy của cô Tấm?"
   } ]
 }
