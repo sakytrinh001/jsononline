@@ -13,7 +13,7 @@
      "bottom": 20,
      "top": 20,
      "left": 10,
-     "right": 10,
+     "right": 100,
      "center": false
 }
 
@@ -31,7 +31,7 @@
 "StyleComponent": {
      "bottom": 20,
      "top": 20,
-     "left": 10,
+     "left": 100,
      "right": 10,
      "center": false
 }
