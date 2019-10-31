@@ -44,7 +44,7 @@
 "PlatformID": 1,
 "ControlGroupID": 1,
 "ControlID": 1,
-"ControlName": "textbox-text",
+"ControlName": "button",
 "ScreenID": 1,
 "ScreenName": "Login",
 "StyleComponent": {
