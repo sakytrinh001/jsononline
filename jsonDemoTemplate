@@ -1,70 +1,70 @@
-{"Result" : [
-	{
-	"boxArray": [{
-		"PlatformName":"Mobile Application",
-		"CodeAction":"",
-		"OrderIndex": 0,
-		"PlatformID": 1,
-		"ControlGroupID": 1,
-		"ControlID": 1,
-		"ControlName": "textbox-text",
-		"ScreenID": 1,
-		"ScreenName": "Login",
-		"StyleComponent": {
-		     "bottom": 20,
-		     "top": 20,
-		     "left": 10,
-		     "right": 10,
-		     "center": false
-		}
-	  
-	}
-	]
-    },
-	{
-		"boxArray": [
-		{
-			"PlatformName":"Mobile Application",
-			"CodeAction":"",
-			"OrderIndex": 1,
-			"PlatformID": 1,
-			"ControlGroupID": 1,
-			"ControlID": 1,
-			"ControlName": "textbox-text",
-			"ScreenID": 1,
-			"ScreenName": "Login",
-			"StyleComponent": {
-			     "bottom": 20,
-			     "top": 20,
-			     "left": 100,
-			     "right": 10,
-			     "center": false
-			}	
-		}
-	]
-},
 {
-"boxArray": [
-		{
-	"PlatformName":"Mobile Application",
-	"CodeAction":"",
-"OrderIndex": 3,
-"PlatformID": 1,
-"ControlGroupID": 1,
-"ControlID": 1,
-"ControlName": "button",
-"ScreenID": 1,
-"ScreenName": "Login",
-"StyleComponent": {
-     "bottom": 20,
-     "top": 0,
-     "left": 50,
-     "right": 50,
-     "center": false
-}
-        }
-    ]
-}
-]
-  
+   "Result": [
+      {
+         "boxArray": [
+            {
+               "PlatformName": "Mobile Application",
+               "CodeAction": "",
+               "OrderIndex": 0,
+               "PlatformID": 1,
+               "ControlGroupID": 1,
+               "ControlID": 1,
+               "ControlName": "textbox-text",
+               "ScreenID": 1,
+               "ScreenName": "Login",
+               "StyleComponent": {
+                  "bottom": 20,
+                  "top": 20,
+                  "left": 10,
+                  "right": 10,
+                  "center": false
+               }
+            }
+         ]
+      },
+      {
+         "boxArray": [
+            {
+               "PlatformName": "Mobile Application",
+               "CodeAction": "",
+               "OrderIndex": 1,
+               "PlatformID": 1,
+               "ControlGroupID": 1,
+               "ControlID": 1,
+               "ControlName": "textbox-text",
+               "ScreenID": 1,
+               "ScreenName": "Login",
+               "StyleComponent": {
+                  "bottom": 20,
+                  "top": 20,
+                  "left": 100,
+                  "right": 10,
+                  "center": false
+               }
+            }
+         ]
+      },
+      {
+         "boxArray": [
+            {
+               "PlatformName": "Mobile Application",
+               "CodeAction": "",
+               "OrderIndex": 3,
+               "PlatformID": 1,
+               "ControlGroupID": 1,
+               "ControlID": 1,
+               "ControlName": "button",
+               "ScreenID": 1,
+               "ScreenName": "Login",
+               "StyleComponent": {
+                  "bottom": 20,
+                  "top": 0,
+                  "left": 50,
+                  "right": 50,
+                  "center": false
+               }
+            }
+         ]
+      }
+   ]
 }
